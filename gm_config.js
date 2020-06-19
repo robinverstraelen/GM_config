@@ -335,7 +335,7 @@ GM_configStruct.prototype = {
     var forgotten = this.write();
     this.onSave(forgotten); // Call the save() callback function
     this.close();
-    document.reload();
+    location.reload();
   },
 
   close: function() {
