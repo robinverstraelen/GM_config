@@ -6,6 +6,7 @@ GM_config Contributors:
     Joe Simmons
     Izzy Soft
     Marti Martz
+    Robin Verstraelen
 
 GM_config is distributed under the terms of the GNU Lesser General Public License.
 
