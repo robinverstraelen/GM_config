@@ -60,7 +60,7 @@ function GM_configInit(config, args) {
     config.onClose = config.onClose || function() {};
     config.onReset = config.onReset || function() {};
     config.isOpen = false;
-    config.title = 'User Script Settings';
+    config.title = 'BDMExplorer settings';
     config.css = {
       basic: [
         "#GM_config * { font-family: arial,tahoma,myriad pro,sans-serif; }",
